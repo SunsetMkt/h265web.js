@@ -32,7 +32,7 @@
     "flv.js": "^1.6.2",
     "mp4box": "^0.4.1",
     "mpegts.js": "^1.6.10",
-    "webpack": "^4.44.1"
+    "webpack": "^5.92.0"
   },
   "browserify": {
     "transform": [
